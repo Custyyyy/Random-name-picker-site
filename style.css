@@ -1,0 +1,87 @@
+h1#headerNames {
+margin-top: 10%;
+color: black;
+font-family: space grotesk;
+font-size: 150px;
+text-align: center;
+cursor: pointer;
+}
+
+.button {
+width: 180px;
+  height: 46px;
+  margin: auto;
+background: black;
+border: black;
+border-radius: 40px;
+color: #fff;
+font-family: space grotesk;
+font-weight: normal;
+text-align: center;
+letter-spacing: 0px;
+display: block;
+cursor: pointer;
+}
+
+#stopButton {
+background: red;
+display: none;
+color: white;
+border: black;
+}
+
+#timerWrapper {
+margin: 50px 0;
+color: #fff;
+font-family: space grotesk;
+font-size: 0px;
+text-align: center;
+opacity: 0;
+transition: opacity 1s;
+}
+#timerWrapper.visible {
+opacity: 1;
+}
+  
+ul {
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+}
+
+li a {
+  color: #666;
+}
+
+  
+ul {
+  margin: 23;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+  border-radius: 40px;
+}
+    
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 40px;
+  text-decoration: none;
+  font-family: space grotesk;
+
+}
+
+li a:hover:not(.active) {
+  background-color: black;
+  color: white;
+}
+
+li a.active {
+  color: white;
+  background-color: black;
+}
