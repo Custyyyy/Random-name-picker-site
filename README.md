@@ -17,6 +17,7 @@ To change the page design you need to edit the css file <a href="https://github.
 
 - To change the names just go to this part of the Javascript code in the file <a href="https://github.com/Custyyyy/Random-name-picker-site/blob/main/script.js">scripts.js</a>:
 
+
 ![image](https://cdn.discordapp.com/attachments/805528177844944929/930122502993227816/Group_5.png)
 
 <h2>❓An Advice</h2>
