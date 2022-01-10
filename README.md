@@ -8,6 +8,8 @@ The folder <a href="https://github.com/Custyyyy/Random-name-picker-site/blob/mai
 <h2>Page design</h2>
 To change the page design you need to edit the css file <a href="https://github.com/Custyyyy/Random-name-picker-site/blob/main/style.css">style.css</a>.
 
+- Live website: [See live](https://sorteggionomi.000webhostapp.com/)
+
 - The default page looks like this:
 
   ![image](https://cdn.discordapp.com/attachments/808121726876647484/930117127418019930/Schermata_2022-01-10_alle_16.12.27.png)
